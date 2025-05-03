@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(9, 183, 252);
+    font-size: 19px;
+    color: rgb(24, 193, 235);
+}
+table{
+    color: black;
+}
+.aa{
+    width: 2px;
+    height: 2px;
+    padding-left: 60px;
+}
+.btt{
+    font-size: 20px;
+    color: rgb(228, 252, 13);
+}
+.btt:hover{
+    color: blue;
+}
+.btt a{
+ text-align: center;
+ font-size: 20px;
+ text-decoration: none;
+ color: white;
+ 
+}
+.btt a:hover{
+    color: blue;
+}
+#tbb{
+    border-color: rgb(4, 0, 255);
+    border-style: groove;
+}
+.rr{
+    font-size: 19px;
+    color: rgb(8, 8, 8);
+}
+.rr li{
+    color: #03010e;
+    font-size: 19px;
+}
+ign-box{
+    background: white;
+    width: 350px;
+    position: absolute;
+    height: 390px;
+}
+.sign-box h1{
+ 
+    margin-top: 0px;
+    width: 350px;
+    height: 64px;
+    background: rgb(39, 196, 156);
+    font-size: 34px;
+    color: aliceblue;
+    text-align: center;
+}
+label{
+    font-size: 19px;
+    color: black;
+}
+input{
+    width: 90%;
+    height: 30px;
+}
